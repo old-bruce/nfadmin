@@ -3,28 +3,30 @@
 ## UI
 AdminLTE
 
-## APP
+## Server
 ASP.NET MVC
+ASP.NET Core
 
 ## DB
-SqlServer
-MySql
+- SqlServer
+- MySql
 
 ## FUNC
-ÓÃ»§¹ÜÀí
-½ÇÉ«¹ÜÀí
-È¨ÏÞ¹ÜÀí
-¹¦ÄÜ¹ÜÀí
-Õ¾ÄÚÏûÏ¢
-Õ¾ÄÚÁÄÌì
+ç”¨æˆ·ç®¡ç†
+è§’è‰²ç®¡ç†
+æƒé™ç®¡ç†
+åŠŸèƒ½ç®¡ç†
+ç«™å†…æ¶ˆæ¯
+ç«™å†…èŠå¤©
 
-Ä£°å¹ÜÀí
+æ¨¡æ¿ç®¡ç†
 
-¹ú¼Ê»¯£¨¶àÓïÑÔ£©
-UI»»·ô
-Ò»¼üÉú³ÉCRUD£¬Ö§³ÖExcelµ¼³ö£¬µ¼Èë
+å›½é™…åŒ–ï¼ˆå¤šè¯­è¨€ï¼‰
+UIæ¢è‚¤
+ä¸€é”®ç”ŸæˆCRUDï¼Œæ”¯æŒExcelå¯¼å‡ºï¼Œå¯¼å…¥
 
-ÉóÅúÄ£¿éÉè¼Æ
-·þÎñÆ÷¼à¿ØÒ³Ãæ
-¼Æ»®ÈÎÎñ¹ÜÀí
-ÒµÎñÁ÷³ÌÉè¼Æ
+## TODO
+å®¡æ‰¹æ¨¡å—è®¾è®¡
+æœåŠ¡å™¨ç›‘æŽ§é¡µé¢
+è®¡åˆ’ä»»åŠ¡ç®¡ç†
+ä¸šåŠ¡æµç¨‹è®¾è®¡
