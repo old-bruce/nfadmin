@@ -3,6 +3,9 @@
 ## Desc
 > NFAdmin 是一个开源项目，使用Bootstrap和AdminLTE为用户界面，使用ASP.NET MVC 构建的快速管理系统开发。
 
++ 设计数据库表结构
++ 一键生成后台管理框架和各表的CRUD界面和代码
+
 ## UI
 - AdminLTE
 
