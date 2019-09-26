@@ -1,6 +1,6 @@
 .NET Fast Admin (NFAdmin)
 
-## Desc
+## 介绍
 > NFAdmin 是一个开源项目，使用Bootstrap和AdminLTE为用户界面，使用ASP.NET MVC 构建的快速管理系统开发。
 
 + 设计数据库表结构
@@ -9,15 +9,15 @@
 ## UI
 - AdminLTE
 
-## Server
+## 服务端开发
 - ASP.NET MVC
 - ASP.NET Core
 
-## DB
+## 支持的数据库
 - SqlServer
 - MySql
 
-## FUNC
+## 默认功能
 - 用户管理
 - 角色管理
 - 权限管理
